@@ -1,2 +1,5 @@
 # TinDog
- web page using bootstrap 5
+
+This was my first page using bootstrap library!
+
+TinDog is a tinder for dogs.
